@@ -1,0 +1,28 @@
+a:link{
+    color: brown;
+}
+
+a:visited{
+    color: blue;
+}
+
+a:hover{
+    background-color: #ccc;
+}
+
+a:active{
+    color: blueviolet;
+}
+
+input:focus{
+    color: chartreuse;
+}
+
+button:hover{
+    color: red;
+}
+
+button:active{
+    background-color: #00000000;
+    border: #00000000;
+}
