@@ -13,6 +13,7 @@ div {
 
 #segundo{
     background-image: url(naruto-new-anime-2025-announcement.avif);
+    background-repeat: repeat;
 }
 
 #terceiro{
@@ -70,3 +71,4 @@ div {
 #doze {
     background: black url(naruto-new-anime-2025-announcement.avif) center 500px no-repeat;
 }
+
